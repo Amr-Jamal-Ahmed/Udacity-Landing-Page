@@ -9,5 +9,5 @@ This is a basic landing page template that uses Javascript to create a NavBar dy
 
 ## Demo
 
-[Landing Page website link]("https://amr-jamal-ahmed.github.io/Udacity-Landing-Page/")
+(Landing Page website link)["https://amr-jamal-ahmed.github.io/Udacity-Landing-Page/"]
 
